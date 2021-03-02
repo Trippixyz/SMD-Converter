@@ -1,4 +1,4 @@
-# SwitchSMDAnimationConverter
+# SMD Converter
 Converts Source Model Animations(.smd) from Toolbox to work with Blender and the other way around
 
 How To Use:

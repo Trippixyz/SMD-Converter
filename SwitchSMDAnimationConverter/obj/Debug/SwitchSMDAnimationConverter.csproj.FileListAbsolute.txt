@@ -1,7 +1,0 @@
-C:\Users\herma\source\repos\SwitchSMDAnimationConverter\SwitchSMDAnimationConverter\obj\Debug\SwitchSMDAnimationConverter.csprojAssemblyReference.cache
-C:\Users\herma\source\repos\SwitchSMDAnimationConverter\SwitchSMDAnimationConverter\obj\Debug\SwitchSMDAnimationConverter.csproj.CoreCompileInputs.cache
-C:\Users\herma\source\repos\SwitchSMDAnimationConverter\SwitchSMDAnimationConverter\bin\Debug\SMD Converter.exe.config
-C:\Users\herma\source\repos\SwitchSMDAnimationConverter\SwitchSMDAnimationConverter\bin\Debug\SMD Converter.exe
-C:\Users\herma\source\repos\SwitchSMDAnimationConverter\SwitchSMDAnimationConverter\bin\Debug\SMD Converter.pdb
-C:\Users\herma\source\repos\SwitchSMDAnimationConverter\SwitchSMDAnimationConverter\obj\Debug\SMD Converter.exe
-C:\Users\herma\source\repos\SwitchSMDAnimationConverter\SwitchSMDAnimationConverter\obj\Debug\SMD Converter.pdb

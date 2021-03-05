@@ -12,13 +12,9 @@ namespace SMD_Converter_GUI
             progressBar1.Value = 0;
             progressBar1.Maximum = 100;
             progressBar1.Step = 50;
-            string title = "SMD-Converter";
 
-            string credits = @"
-    Made by Trippixyz! Ported to Win Forms by Lord-Giganticus.
 
-";
-            MessageBox.Show(title);
+            string credits = "SMD-Converter\nMade by Trippixyz! Ported to Windows Forms by Lord-Giganticus.";
             MessageBox.Show(credits);
         }
 

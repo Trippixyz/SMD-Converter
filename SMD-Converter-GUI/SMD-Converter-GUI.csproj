@@ -81,6 +81,6 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PostBuildEvent>copy "$(SolutionDir)SwitchSMDAnimationConverter\bin\$(ConfigurationName)\SMD Converter.exe" "%25CD%25" &amp;&amp; 7z a "$(ConfigurationName).zip" *.exe &amp;&amp; mv "$(ConfigurationName).zip" "$(SolutionDir)."</PostBuildEvent>
+    <PostBuildEvent>copy "$(SolutionDir)SwitchSMDAnimationConverter\bin\$(ConfigurationName)\SMD Converter.exe" "%25CD%25" &amp;&amp; 7z a "$(SolutionName).zip" *.exe &amp;&amp; mv "$(SolutionName).zip" "$(SolutionDir)."</PostBuildEvent>
   </PropertyGroup>
 </Project>
